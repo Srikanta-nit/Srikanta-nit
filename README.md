@@ -1,3 +1,4 @@
+<img src="https://github.com/Srikanta-nit/Srikanta-nit/assets/123456789/banner.png" width="100%" />
 <h1 align="center">Hi 👋, I'm Srikanta Kumar</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
