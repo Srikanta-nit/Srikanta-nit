@@ -1,4 +1,3 @@
-<img src="https://photos.google.com/share/AF1QipPB00je4Lyfqxs8YJnDcOCQo6XTIXUefz226VR2m8mo-yPqXWoDQ68qRowyDr8rAA?key=U3JMZWVQQzAwakFfWUJpazgydGoyWTNURjY2OEFR">
 <h1 align="center">Hi 👋, I'm Srikanta Kumar</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
